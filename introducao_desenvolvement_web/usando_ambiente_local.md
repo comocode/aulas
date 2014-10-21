@@ -30,6 +30,8 @@
 
 [Vagrant](http://vagrantup.com) :: Ferramenta para criar maquinas virtual automaticamente
 
+[Comocode Centos](http://www.github.com/comocode/centos) :: Pacote preparado para utilizar centos com lamp 
+
 
 
 
