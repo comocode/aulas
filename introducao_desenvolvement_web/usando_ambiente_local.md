@@ -4,7 +4,7 @@
 
 [Presentaçao: Ciclo De Vida de um Pedido](http://slides.com/comocode/lesson_1-ciclo_de_vida/)
 
-[Presentaçao: Ambientes e Pedidos ](slides.com/comocode/lesson_1_introducao_a_web/)
+[Presentaçao: Ambientes e Pedidos ](http://slides.com/comocode/lesson_1_introducao_a_web/)
 
 
 ## Neste video nos cubrimos
