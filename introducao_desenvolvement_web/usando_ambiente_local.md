@@ -36,6 +36,8 @@
 
 [Comocode Centos](http://www.github.com/comocode/centos) :: Pacote preparado para utilizar centos com lamp 
 
+[Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/) :: Ferramenta para connectar para seu vagrant de Windows usando SSH
+
 
 ## Como criar um ambiente local
 
