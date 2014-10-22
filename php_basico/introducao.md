@@ -31,7 +31,8 @@ exemplo
 função sao pacotes de comandos ou instruçao que sao executada em uma operação
 
 exemplo
-```php
+```
+<pre>
         |------ declaração de função
         |      | -- nome da função
         |      |    | -- parênteses para argumentos
@@ -39,7 +40,8 @@ exemplo
     function oiMundo(){ < -- chave aberta
         echo "oi mundo"; <-- comando
     } <-- chave para fechar
- ```
+</pre>
+```
 para chamar sua função e so usar como comando
 
     oiMundo(); 
