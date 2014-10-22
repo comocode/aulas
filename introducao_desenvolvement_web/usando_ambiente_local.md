@@ -40,7 +40,7 @@
 ## Como criar um ambiente local
 
 ### Primerio, installar Virtualbox
-* Visite https://www.virtualbox.org/
+* Visite [https://www.virtualbox.org/](https://www.virtualbox.org/)
 * Click o link chamado "Download"
 * Selecione seu pacote, windows our mac utiliza o link (x86/amd64), 
 ** Para Linux tem que seguir os paços para sua distribuição https://www.virtualbox.org/wiki/Linux_Downloads  
@@ -52,7 +52,7 @@
 ** Para Windows, tem que navegar para a installação de Virtualbox "c:\Program Files\Oracle\Virtualbox\VBoxManage -v"
 
 ### Instalar Vagrant
-* Visite http://www.vagrantup.com/
+* Visite [http://www.vagrantup.com/](http://www.vagrantup.com/)
 * Click o botão "Download" 
 * Abaixe o pacote para seu sistema 
 * Apos baixado, execute o pacote e instale Vagrant em sua máquina local.
