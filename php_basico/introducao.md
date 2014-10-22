@@ -31,7 +31,7 @@ exemplo
 função sao pacotes de comandos ou instruçao que sao executada em uma operação
 
 exemplo
-```
+
 <pre>
         |------ declaração de função
         |      | -- nome da função
@@ -41,7 +41,7 @@ exemplo
         echo "oi mundo"; <-- comando
     } <-- chave para fechar
 </pre>
-```
+
 para chamar sua função e so usar como comando
 
     oiMundo(); 
