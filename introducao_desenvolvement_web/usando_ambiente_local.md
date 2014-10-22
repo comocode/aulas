@@ -46,10 +46,10 @@
 ** Para Linux tem que seguir os paços para sua distribuição https://www.virtualbox.org/wiki/Linux_Downloads  
 * Apos de fazer o Download, instalá-lo em seu sistema local
 * Quando a instalação estiver concluída, confirme que você pode executar o comando VBoxManage -v
-** Em um Mac, abra um instância de Terminal [command+spaço] que abre a pesquisa e escreva "Terminal" 
-** Para Windows, [start] + (run ou click na area de pesquisa) e escreva "cmd" para criar um windows de Dos 
-** Mac/Linux corra o commando "VBoxManage -v", 
-** Para Windows, tem que navegar para a installação de Virtualbox "c:\Program Files\Oracle\Virtualbox\VBoxManage -v"
+* Em um Mac, abra um instância de Terminal [command+spaço] que abre a pesquisa e escreva "Terminal" 
+* Para Windows, [start] + (run ou click na area de pesquisa) e escreva "cmd" para criar um windows de Dos 
+* Mac/Linux corra o commando "VBoxManage -v", 
+* Para Windows, tem que navegar para a installação de Virtualbox "c:\Program Files\Oracle\Virtualbox\VBoxManage -v"
 
 ### Instalar Vagrant
 * Visite [http://www.vagrantup.com/](http://www.vagrantup.com/)
